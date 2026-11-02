@@ -1,0 +1,21 @@
+# Nexora PDF Office
+
+> Nexora PDF Office is an Android document and PDF app with free PDF tools available directly on this website.
+
+## Website tools
+
+- Read a PDF in the browser.
+- Merge multiple PDF files into one.
+- Reorder and rotate PDF pages, then download the updated file.
+- Convert PDF pages to PNG or JPEG images and download them as a ZIP file.
+- Create a PDF from PNG and JPEG images.
+- Website PDF files are processed locally in the browser and are not uploaded to this site's server.
+
+## Android app
+
+- The Android app includes document scanning and file protection features.
+- Google Play: https://play.google.com/store/apps/details?id=com.nexora.office
+
+## Languages
+
+- The website supports Arabic and English.
