@@ -10,10 +10,25 @@
 - Convert PDF pages to PNG or JPEG images and download them as a ZIP file.
 - Create a PDF from PNG and JPEG images.
 - Website PDF files are processed locally in the browser and are not uploaded to this site's server.
+- Dedicated, indexable feature guides:
+  - Smart document scanner: https://nexorastudiodevv-ctrl.github.io/PDF/articles/smart-document-scanner.html
+  - PDF password protection: https://nexorastudiodevv-ctrl.github.io/PDF/articles/protect-pdf-with-password.html
+  - PDF compression: https://nexorastudiodevv-ctrl.github.io/PDF/articles/compress-pdf-files.html
+  - PDF and image conversion: https://nexorastudiodevv-ctrl.github.io/PDF/articles/pdf-image-conversion.html
+  - PDF signatures and stamps: https://nexorastudiodevv-ctrl.github.io/PDF/articles/pdf-signatures-and-stamps.html
+- The scanner guide covers Google ML Kit document scanning, page-edge detection, perspective correction, and multi-page capture.
+- The conversion guide illustrates image-to-PDF and text-to-PDF with screenshots/screen-06.webp and screenshots/screen-08.webp. Website tools export PDF pages to PNG/JPEG locally in the browser.
+- The signatures guide explains that a visible signature or stamp is not necessarily a certificate-backed digital signature.
+- Search crawlers can discover pages from https://nexorastudiodevv-ctrl.github.io/PDF/sitemap.xml; robots.txt allows crawling.
 
 ## Android app
 
 - The Android app includes document scanning and file protection features.
+- Its scanner uses Google ML Kit Document Scanner API for document capture and page processing.
+- File protection uses PDFBox-Android to create password-protected PDF copies. Encryption algorithms and supported permissions depend on the app's implementation and PDF reader compatibility.
+- PDF compression is available in the Android app. Compression results vary with document content and settings; no fixed size reduction is guaranteed.
+- The Android app includes image-to-PDF and text-to-PDF conversion. Website tools create PDFs from PNG/JPEG images and export PDF pages as PNG/JPEG locally in the browser.
+- The Android app includes signature and stamp tools for PDF documents; a visible mark alone does not establish signer identity or document integrity.
 - Google Play: https://play.google.com/store/apps/details?id=com.nexora.office
 
 ## Languages
