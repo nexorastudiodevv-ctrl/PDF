@@ -11,15 +11,15 @@
 - Create a PDF from PNG and JPEG images.
 - Website PDF files are processed locally in the browser and are not uploaded to this site's server.
 - Dedicated, indexable feature guides:
-  - Smart document scanner: https://nexorastudiodevv-ctrl.github.io/PDF/articles/smart-document-scanner.html
-  - PDF password protection: https://nexorastudiodevv-ctrl.github.io/PDF/articles/protect-pdf-with-password.html
-  - PDF compression: https://nexorastudiodevv-ctrl.github.io/PDF/articles/compress-pdf-files.html
-  - PDF and image conversion: https://nexorastudiodevv-ctrl.github.io/PDF/articles/pdf-image-conversion.html
-  - PDF signatures and stamps: https://nexorastudiodevv-ctrl.github.io/PDF/articles/pdf-signatures-and-stamps.html
+  - Smart document scanner: https://pdf.nexorastudio-eg.com/articles/smart-document-scanner.html
+  - PDF password protection: https://pdf.nexorastudio-eg.com/articles/protect-pdf-with-password.html
+  - PDF compression: https://pdf.nexorastudio-eg.com/articles/compress-pdf-files.html
+  - PDF and image conversion: https://pdf.nexorastudio-eg.com/articles/pdf-image-conversion.html
+  - PDF signatures and stamps: https://pdf.nexorastudio-eg.com/articles/pdf-signatures-and-stamps.html
 - The scanner guide covers Google ML Kit document scanning, page-edge detection, perspective correction, and multi-page capture.
 - The conversion guide illustrates image-to-PDF and text-to-PDF with screenshots/screen-06.webp and screenshots/screen-08.webp. Website tools export PDF pages to PNG/JPEG locally in the browser.
 - The signatures guide explains that a visible signature or stamp is not necessarily a certificate-backed digital signature.
-- Search crawlers can discover pages from https://nexorastudiodevv-ctrl.github.io/PDF/sitemap.xml; robots.txt allows crawling.
+- Search crawlers can discover pages from https://pdf.nexorastudio-eg.com/sitemap.xml; robots.txt allows crawling.
 
 ## Android app
 
